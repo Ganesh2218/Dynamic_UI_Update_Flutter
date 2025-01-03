@@ -1,0 +1,139 @@
+
+{
+  "pageProperties": {
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#000000",
+    "iconColor": "#333333",
+    "appbar_color": "#3F51B5",
+    "statusbar_color": "#303F9F"
+  },
+  "sectionsOrder": ["banner", "categories", "bestDeals", "offersAndDiscounts", "dealsOfTheDay"],
+  "bannerSlider": [
+    {
+      "image": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s",
+      "redirectPage": "furnitureUtsav"
+    },
+    {
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "redirectPage": "specialOffers"
+    },
+    {
+      "image": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s",
+      "redirectPage": "furnitureUtsav"
+    },
+    {
+      "image": "",
+      "redirectPage": "specialOffers"
+    },
+    {
+      "image": "https://picsum.photos/seed/picsum/200/300",
+      "redirectPage": "specialOffers"
+    },
+    {
+      "image": "https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s",
+      "redirectPage": "furnitureUtsav"
+    }
+  ],
+  "categories": [
+    {"name": "Living Room", "icon": "https://picsum.photos/40/40"},
+    {"name": "Bedroom", "icon": "https://placeholder.com/40x40"},
+    {"name": "Storage", "icon": "https://picsum.photos/40/40"},
+    {"name": "Study", "icon": "https://placeholder.com/40x40"},
+    {"name": "Dining", "icon": "https://picsum.photos/40/40"},
+    {"name": "Table", "icon": "https://placeholder.com/40x40"},
+    {"name": "Chairs", "icon": "https://picsum.photos/40/40"},
+    {"name": "Z Rated", "icon": "https://placeholder.com/40x40", "isNew": true},
+    {"name": "Z Rated", "icon": "https://placeholder.com/40x40", "isNew": true},
+    {"name": "Z Rated", "icon": "https://placeholder.com/40x40", "isNew": true}
+  ],
+  "bestDeals": [
+    {"title": "Brand New", "icon": "https://picsum.photos/40/40", "deals_type": "BUY","redirectPage": "brandNew"},
+    {"title": "Refurbished", "icon": "https://picsum.photos/40/40","deals_type": "SALE", "redirectPage": "refurbished"}
+  ],
+
+  "offersAndDiscounts": [
+    {
+      "backgroundColor": "#FFA726",
+      "iconCode": "0xe87d",
+      "offer": "50% OFF",
+      "details": "Get up to 50% off on all furniture items. Limited time only!"
+    },
+    {
+      "backgroundColor": "#29B6F6",
+      "iconCode": "0xe8cc",
+      "offer": "Buy 1 Get 1",
+      "details": "Applicable on select categories. Shop now!"
+    },
+    {
+      "backgroundColor": "#FFA726",
+      "iconCode": "0xe8cc",
+      "offer": "Buy 1 Get 1",
+      "details": "Applicable on select categories. Shop now!"
+    },
+    {
+      "backgroundColor": "#29B6F6",
+      "iconCode": "0xe8cc",
+      "offer": "Buy 1 Get 1",
+      "details": "Applicable on select categories. Shop now!"
+    },
+    {
+      "backgroundColor": "#29B6F6",
+      "iconCode": "0xe8cc",
+      "offer": "Buy 1 Get 1",
+      "details": "Applicable on select categories. Shop now!"
+    },
+    {
+      "backgroundColor": "#FFA726",
+      "iconCode": "0xe8cc",
+      "offer": "Buy 1 Get 1",
+      "details": "Applicable on select categories. Shop now!"
+    }
+  ],
+
+
+  "dealsOfTheDay": [
+    {
+      "name": "Flex 3 Seater Magic B",
+      "discount": "72%",
+      "price": "₹10,499",
+      "image": "https://picsum.photos/150/100"
+    },
+    {
+      "name": "Flex Fabric 3 Seater",
+      "discount": "74%",
+      "price": "₹9,499",
+      "image": "https://via.placeholder.com/150x100"
+    },
+    {
+      "name": "Comfort Recliner Chair",
+      "discount": "50%",
+      "price": "₹7,999",
+      "image": "https://picsum.photos/150/100"
+    },
+    {
+      "name": "Premium Wooden Table",
+      "discount": "40%",
+      "price": "₹5,499",
+      "image": "https://via.placeholder.com/150x100"
+    },
+    {
+      "name": "Flex Fabric 3 Seater",
+      "discount": "74%",
+      "price": "₹9,499",
+      "image": "https://via.placeholder.com/150x100"
+    },
+    {
+      "name": "Comfort Recliner Chair",
+      "discount": "50%",
+      "price": "₹7,999",
+      "image": "https://picsum.photos/150/100"
+    },
+    {
+      "name": "Premium Wooden Table",
+      "discount": "40%",
+      "price": "₹5,499",
+      "image": "https://via.placeholder.com/150x100"
+    }
+  ]
+
+}
